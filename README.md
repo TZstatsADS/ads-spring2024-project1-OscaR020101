@@ -9,11 +9,10 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2023
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: What makes a married man happy?
++ This project is conducted by Jiaqi Liu
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
++ Project summary: This project employs natural language processing methods to analyze a dataset filled with diverse personal accounts of happy moments. It specifically aims to understand what factors make a married men happy. This is achieved by contrasting the word frequencies in narratives from married men with those from single men and married women. Such a comparative approach seeks to highlight the unique aspects and themes that predominantly resonate with married men's experiences of happiness, in contrast to their single counterparts and married women.
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
 ```
