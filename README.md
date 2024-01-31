@@ -9,7 +9,7 @@ This is the first and only *individual* (as opposed to *team*) this semester.
 
 Term: Fall 2023
 
-+ Projec title: What makes a married man happy?
++ Project title: 'Data Story' on what makes married man happy.
 + This project is conducted by Jiaqi Liu
 
 + Project summary: This project employs natural language processing methods to analyze a dataset filled with diverse personal accounts of happy moments. It specifically aims to understand what factors make a married men happy. This is achieved by contrasting the word frequencies in narratives from married men with those from single men and married women. Such a comparative approach seeks to highlight the unique aspects and themes that predominantly resonate with married men's experiences of happiness, in contrast to their single counterparts and married women.
